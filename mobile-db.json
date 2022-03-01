@@ -1,0 +1,352 @@
+[
+  {
+    "_id": "6219596635bf69ce70b6d3fc",
+    "page": "malibu",
+    "order": 0,
+    "type": "bg-image",
+    "images": [
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bg-image-page/c56a097b-c94e-4d5e-b889-e8ae5e4e49acbg1.jpg",
+        "order": 0
+      }
+    ]
+  },
+  {
+    "_id": "62195a3ad26ed70d225dde56",
+    "page": "discover",
+    "order": 1,
+    "type": "bg-image",
+    "images": [
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bg-image-page/95666476-e542-4d62-8a37-a2d3e20b92ebbg2.jpg",
+        "order": 0
+      }
+    ]
+  },
+  {
+    "_id": "62195cbbcbf2f0444e3c3228",
+    "page": "renders",
+    "order": 2,
+    "type": "carousel",
+    "images": [
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/renders-mobile/1c684175-9abc-4fa1-bbb8-e880cbbfaf4733340 MULHOLLAND INT IMG 14A.jpg",
+        "order": 4
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/renders-mobile/7cb983cf-e833-4899-8f9c-b2c50c1927f733340 MULHOLLAND INT IMG 12A_00.jpg",
+        "order": 3
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/renders-mobile/acb5784f-2694-42c7-8f1a-5c45c843f6fe33340 MULHOLLAND INT IMG 34A.jpg",
+        "order": 11
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/renders-mobile/c18f3651-59e9-4e29-a50a-dfabaf72dfcb33340 MULHOLLAND INT IMG 26A.jpg",
+        "order": 7
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/renders-mobile/9ea750de-5967-432c-9b61-254c2ad14c4e33340 MULHOLLAND INT IMG 3A_00.jpg",
+        "order": 0
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/renders-mobile/2a02bb28-5be3-414c-aa5e-9a9d5d3a104b33340 MULHOLLAND INT IMG 4A.jpg",
+        "order": 1
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/renders-mobile/a02b8c39-d983-4f10-b589-66f2504ae30433340 MULHOLLAND INT IMG 34B.jpg",
+        "order": 12
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/renders-mobile/9f5f4704-8f93-4ce1-9e63-a67cace820e133340 MULHOLLAND INT IMG 24A.jpg",
+        "order": 6
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/renders-mobile/3a38c0a7-ec2d-4f12-adec-ce2e487b6c7033340 MULHOLLAND INT IMG 11A_00.jpg",
+        "order": 2
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/renders-mobile/fad3d482-a282-4b8b-a763-2e78f16e7f2633340 MULHOLLAND INT IMG 26B.jpg",
+        "order": 8
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/renders-mobile/75b442bb-cd42-430a-9c73-7e48952845d233340 MULHOLLAND INT IMG 31A.jpg",
+        "order": 10
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/renders-mobile/6041f7b6-2ad4-47fe-b424-41fea39a29a833340 MULHOLLAND INT IMG 16A_00.jpg",
+        "order": 5
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/renders-mobile/1ced31fb-6452-4dd5-8a70-afaca4afebcb33340 MULHOLLAND INT IMG 30A.jpg",
+        "order": 9
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/renders-mobile/82dffcbc-2b23-4e62-86dc-3f91e536de6b33340 MULHOLLAND INT IMG 34C.jpg",
+        "order": 13
+      }
+    ]
+  },
+  {
+    "_id": "62195d082b4e2fbbd57964c4",
+    "page": "floorplans",
+    "order": 3,
+    "type": "carousel",
+    "images": [
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/page-carousels/0041dd3d-aad5-4f13-81be-9860962e806833340 Mullholland Hwy_SITE PLAN.jpg",
+        "order": 0
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/page-carousels/da8e1a7a-9e95-45d6-b0f0-5cf7f69ce15633340 Mullholland Hwy_1ST FLOOR  BLACK 20211001.jpg",
+        "order": 0
+      },
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/page-carousels/29efefa3-7831-48cf-bbfe-a0333f294c2933340 Mullholland Hwy_2ND FLOOR 20211001.jpg",
+        "order": 0
+      }
+    ]
+  },
+  {
+    "_id": "62195d2590b04544145a51a6",
+    "page": "equestrian",
+    "order": 4,
+    "type": "bg-image",
+    "images": [
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bg-image-page/ac520efc-2bf2-44e4-ac74-9509fd18d946bg3.jpg",
+        "order": 0
+      }
+    ]
+  },
+  {
+    "_id": "62195d425fd8ea7e55eef94f",
+    "page": "video-render",
+    "order": 5,
+    "type": "video",
+    "images": [
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bg-image-page/091ec25f-e3cf-4134-a40a-7dee2e7e7cdcbg4.jpg",
+        "order": 0
+      }
+    ]
+  },
+  {
+    "_id": "62195dc2d96bbfaf1eeda7a5",
+    "page": "drone-footage",
+    "order": 7,
+    "type": "video",
+    "images": [
+      {
+        "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bg-image-page/91cbcb4c-39f9-4538-b349-f7769fd36586drone.jpg",
+        "order": 0
+      }
+    ]
+  },
+  {
+    "_id": "62195f2c94ad6c63362d0c4f",
+    "page": "behind-the-scenes",
+    "order": 6,
+    "type": "gallery",
+    "phases": [
+      {
+        "phase": 1,
+        "images": [
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/40451264-02f0-449d-82b1-d3943dac37552021.05.29 roof 2.jpg",
+            "order": 0
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/906af8e2-3d00-4bac-a530-38b1fe53402belectrical discussion.jpg",
+            "order": 6
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/53621c33-fe3a-489b-9987-d88ecd1889f0kitchen discussion.jpg",
+            "order": 12
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/a86cf522-5f27-4468-88ab-b64ba08164fcFraming.jpg",
+            "order": 8
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/53a99355-aa9a-498c-825c-91c62f930274Bike.jpg",
+            "order": 2
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/0b5a11a8-8021-4969-a66b-2122f2e0a80ckitchen discussion 2.jpg",
+            "order": 10
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/7331625c-0b28-47b3-9b12-fe1bbec68f8aAmit and Russel.jpg",
+            "order": 1
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/b4a3dddd-b685-488b-859c-82ea6a9580d8kitchen discussion 3.jpg",
+            "order": 11
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/5b18e788-dc14-435d-ae1a-0cc302c22a1fframing discussion.jpg",
+            "order": 7
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/4a449ab3-b0f3-4e4b-a5d8-2eae47b0d3e3electrical 2.jpg",
+            "order": 5
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/61dfda59-cfb6-48fb-a50b-f6c477103693Humming Bird.jpg",
+            "order": 9
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/b714abd7-27a8-4807-a375-45fff6a8dd44circle window with pendant light.jpg",
+            "order": 3
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/3a81e818-9317-463c-abf7-7921157d2895dining room discussion.jpg",
+            "order": 4
+          }
+        ]
+      },
+      {
+        "phase": 2,
+        "images": [
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/3df2b0bc-e70d-4aaf-92aa-8bd2be48cec8012.jpg",
+            "order": 11
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/a33d30ea-3c1f-45e5-951c-56145a1bbc47010.jpg",
+            "order": 9
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/4901ea67-0627-4708-a1dc-237be48822f30.jpg",
+            "order": 0
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/d23b1fdc-bbbe-4edc-9157-c8946f488bc803.jpg",
+            "order": 2
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/c6377034-c094-4462-8b65-8a998702407204.jpg",
+            "order": 3
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/6f63e58a-006a-4a0b-b17e-daa28e9e1a1605.jpg",
+            "order": 4
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/b806ac95-f387-493d-9798-a01963ea680d02.jpg",
+            "order": 1
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/1d68ceb8-4760-4a5d-9987-83fbe4937ef508.jpg",
+            "order": 7
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/3724e7b4-b41d-44e8-b8d3-ff17e8bd024219.jpg",
+            "order": 18
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/db0cd673-34a8-465c-9a0c-11e98d95ba6e09.jpg",
+            "order": 8
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/09f26383-c053-4843-92ba-deffe1e96c8521.jpg",
+            "order": 20
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/4e5e6672-cf0e-4dca-99c7-3f4d67db68ed20.jpg",
+            "order": 19
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/f672beb8-df31-4e4a-82fe-60b8f9780d4716.jpg",
+            "order": 15
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/08acf597-3bd2-4df0-80c2-9293f07c14fd28.jpg",
+            "order": 27
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/ac568387-3252-4bb3-a817-82c900ac322a30.jpg",
+            "order": 29
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/3b9f80b4-4a86-466a-9cb2-fe5e53ab387d014.jpg",
+            "order": 13
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/6c40b828-fc1a-41c1-aa63-563a0a8b7bdc07.jpg",
+            "order": 6
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/f1be8543-a2c5-40f8-90f2-53c182de4efe27.jpg",
+            "order": 26
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/962e3b12-8853-487c-8816-8d800bd08cec18.jpg",
+            "order": 17
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/ef85c956-0e19-45c7-b3d2-40a12bbd560917.jpg",
+            "order": 16
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/15ffe109-1970-407a-9d35-01f1e789583e011.jpg",
+            "order": 10
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/35d3e7b3-5903-41e2-9931-9e043701119823.jpg",
+            "order": 22
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/c64f4514-d0b8-487a-aa05-41a9ea98c17a22.jpg",
+            "order": 21
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/f85c3226-5f33-44bc-8e47-2b2f5dcd690025.jpg",
+            "order": 24
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/ca794bd1-0d7b-4649-9865-382699b8f90b013.jpg",
+            "order": 12
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/00bd16db-571c-48be-96d4-3b87c9b94fb124.jpg",
+            "order": 23
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/52aa260c-3988-4add-bc26-47641eef545029.jpg",
+            "order": 28
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/8c3a9994-a614-40eb-b526-34313660378b15.jpg",
+            "order": 14
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/e16ece08-1f1b-41d3-a348-bb9a91775e0506.jpg",
+            "order": 5
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/93e42f59-ec1e-4ef5-8261-76fcf9fe4e2431.jpg",
+            "order": 30
+          },
+          {
+            "url": "https://f004.backblazeb2.com/file/AmitApelMain/maliview/bts/bcdb583b-44c6-4f27-ada6-0f1b6d2c3b1f26.jpg",
+            "order": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "621976bd70e49c4036637e19",
+    "page": "malibu",
+    "order": 3,
+    "type": "bg-image",
+    "images": [
+      {
+        "url": "mock-bb-storage\\bg-image-page\\7812e9c3-6c78-4ae3-b612-b6bdcb59a238bg1.jpg",
+        "order": 0
+      }
+    ]
+  }
+]

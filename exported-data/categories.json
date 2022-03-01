@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "62198a93ee6bf0f2610a1c31",
+    "category": "behind-the-scenes",
+    "type": "gallery",
+    "title": "Behind The Scenes",
+    "description": "page with images of phases",
+    "editableFields": [
+      {
+        "type": "media",
+        "name": "images",
+        "multi": true,
+        "client_label": "images"
+      }
+    ],
+    "imageFolder": "bts",
+    "editableFields_mobile": [
+      {
+        "type": "media",
+        "name": "phases",
+        "multi": true,
+        "client_label": "images"
+      }
+    ]
+  },
+  {
+    "_id": "62198acfee737dc5b139ea71",
+    "category": "bg-pages",
+    "type": "bg-image",
+    "title": "Background Pages",
+    "description": "page where content is just one image",
+    "editableFields": [
+      {
+        "type": "media",
+        "name": "image",
+        "multi": false,
+        "client_label": "image"
+      }
+    ],
+    "imageFolder": "bg-image-page",
+    "editableFields_mobile": [
+      {
+        "type": "media",
+        "name": "images",
+        "multi": true,
+        "client_label": "image"
+      }
+    ]
+  },
+  {
+    "_id": "62198b001837728ee4c572e0",
+    "category": "carousel-renders",
+    "type": "carousel",
+    "title": "Carousel For Renders",
+    "description": "renders page",
+    "imageFolder": "carousel-renders",
+    "editableFields": [
+      {
+        "type": "media",
+        "client_label": "left",
+        "multi": true,
+        "name": "left"
+      },
+      {
+        "type": "media",
+        "client_label": "right",
+        "multi": true,
+        "name": "right"
+      },
+      {
+        "type": "media",
+        "client_label": "thumbs",
+        "multi": true,
+        "name": "thumbs"
+      }
+    ],
+    "editableFields_mobile": [
+      {
+        "type": "media",
+        "name": "left",
+        "multi": true,
+        "client_label": "left"
+      },
+      {
+        "type": "media",
+        "name": "right",
+        "multi": true,
+        "client_label": "right"
+      },
+      {
+        "type": "media",
+        "name": "thumbs",
+        "multi": true,
+        "client_label": "thumbs"
+      }
+    ]
+  },
+  {
+    "_id": "62198b33f38911e118d08032",
+    "category": "page-carousels",
+    "type": "carousel",
+    "title": "Page Carousels",
+    "description": "page where the content is one large carousel",
+    "editableFields": [
+      {
+        "type": "media",
+        "client_label": "images",
+        "multi": true,
+        "name": "images"
+      }
+    ],
+    "imageFolder": "page-carousels",
+    "editableFields_mobile": [
+      {
+        "type": "media",
+        "name": "images",
+        "multi": true,
+        "client_label": "images"
+      }
+    ]
+  },
+  {
+    "_id": "62198b55fc36f8294d4bac46",
+    "category": "mobile",
+    "type": "mobile",
+    "title": "Mobile Pages",
+    "description": "these are categories for the mobile site",
+    "editableFields_mobile": []
+  },
+  {
+    "_id": "621ae8462b5171ada3bf1987",
+    "type": "video",
+    "title": "Video Pages",
+    "description": "pages where video is played on click",
+    "editableFields": [
+      {
+        "type": "media",
+        "client_label": "image",
+        "multi": false,
+        "name": "image"
+      }
+    ],
+    "imageFolder": "bg-image-page",
+    "category": "video",
+    "editableFields_mobile": [
+      {
+        "type": "media",
+        "name": "image",
+        "multi": true,
+        "client_label": "image"
+      }
+    ]
+  }
+]

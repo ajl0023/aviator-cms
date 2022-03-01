@@ -1,0 +1,24 @@
+[
+  {
+    "accountId": "5a6988aa2e53",
+    "action": "upload",
+    "bucketId": "d52aa6a96808ca0a72de0513",
+    "contentLength": 211704,
+    "contentMd5": "d6c36d23ae0730d7596364d7764da70d",
+    "contentSha1": "72414d106e9ef9723fb179fe9e81be8fe85c6067",
+    "contentType": "image/jpeg",
+    "fileId": "4_zd52aa6a96808ca0a72de0513_f108d867635142172_d20220225_m030659_c004_v0402006_t0041",
+    "fileInfo": {},
+    "fileName": "maliview/bg-image-page/6488c65b-62e2-424f-a99c-7f551a42a733bg1.jpg",
+    "fileRetention": {
+      "isClientAuthorizedToRead": true,
+      "value": { "mode": null, "retainUntilTimestamp": null }
+    },
+    "legalHold": { "isClientAuthorizedToRead": true, "value": null },
+    "serverSideEncryption": { "algorithm": null, "mode": null },
+    "uploadTimestamp": 1645758419000,
+    "order": 0,
+    "page": "malibu",
+    "type": "image"
+  }
+]
