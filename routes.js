@@ -1,5 +1,3 @@
-const knex = require("./knexInstance");
-var knexnest = require("knexnest");
 const multer = require("multer");
 const path = require("path");
 const fs = require("fs-extra");
@@ -10,12 +8,11 @@ const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
 const {
   parseJSON,
-  uploadFromBuffer,
+
   ObjToArr,
-  getMediaCols,
+
   getModel,
-  getImageMetaData,
-  uploadImage,
+
   compressImage,
 } = require("./utils");
 
@@ -24,9 +21,6 @@ const { randomUUID } = require("crypto");
 
 const sharp = require("sharp");
 const utils = require("./utils");
-const { dataTypes, types } = require("./column-types");
-const { deletePhotos } = require("./bblaze");
-const { start } = require("repl");
 
 module.exports = async (router) => {
   const db = await require("./db.js");

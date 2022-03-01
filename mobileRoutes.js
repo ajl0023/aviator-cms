@@ -1,5 +1,3 @@
-const knex = require("./knexInstance");
-var knexnest = require("knexnest");
 const multer = require("multer");
 const path = require("path");
 const fs = require("fs-extra");
@@ -16,14 +14,6 @@ const {
   getImageMetaData,
   uploadImage,
 } = require("./utils");
-
-var Mustache = require("mustache");
-const { randomUUID } = require("crypto");
-
-const sharp = require("sharp");
-const utils = require("./utils");
-const { dataTypes, types } = require("./column-types");
-const { deletePhotos } = require("./bblaze");
 
 module.exports = async (router) => {
   const db = await require("./db");

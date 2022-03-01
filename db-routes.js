@@ -1,4 +1,3 @@
-const knex = require("./knexInstance");
 const fs = require("fs");
 const path = require("path");
 const ObjectID = require("mongodb").ObjectId;

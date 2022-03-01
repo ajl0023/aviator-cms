@@ -55,26 +55,10 @@ module.exports = (db) => {
 
   var router = express.Router();
 
-  const knex = require("./knexInstance");
   const router2 = express.Router();
   const router3 = express.Router();
   const mobileRoutes = express.Router();
   const cors = require("cors");
-
-  const schemaInspector = require("knex-schema-inspector").default;
-
-  const inspector = schemaInspector(knex);
-
-  const { Model } = require("objection");
-
-  Model.knex(knex);
-
-  router2.post("/create_new_table", async (req, res) => {
-    const { createTable } = require("./db.js");
-
-    await createTable(knex, req.body);
-    res.json("test");
-  });
 
   require("./routes")(router, db);
 
@@ -85,10 +69,7 @@ module.exports = (db) => {
   app.use(cors());
   app.use("/api", router);
   app.use("/api/mobile", mobileRoutes);
-  // app.use("/static", express.static("public"));
-  app.use("/mock-bb-storage", (req, res) => {
-    console.log(6541644);
-  });
+
   app.use(router2);
   app.use("/db", router3);
 
